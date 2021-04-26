@@ -1,0 +1,26 @@
+﻿  program.cpp
+C:\Users\Пользователь\source\repos\program\program\Header.h(35,1): warning C4005: showArr: изменение макроопределения
+C:\Users\Пользователь\source\repos\program\program\Header.h(15): message : см. предыдущее определение "showArr"
+C:\Users\Пользователь\source\repos\program\program\Header.h(36,1): warning C4005: fillArr: изменение макроопределения
+C:\Users\Пользователь\source\repos\program\program\Header.h(14): message : см. предыдущее определение "fillArr"
+C:\Users\Пользователь\source\repos\program\program\Header.h(37,1): warning C4005: bubbleSortArr: изменение макроопределения
+C:\Users\Пользователь\source\repos\program\program\Header.h(16): message : см. предыдущее определение "bubbleSortArr"
+C:\Users\Пользователь\source\repos\program\program\Header.h(38,1): warning C4005: mins: изменение макроопределения
+C:\Users\Пользователь\source\repos\program\program\Header.h(17): message : см. предыдущее определение "mins"
+C:\Users\Пользователь\source\repos\program\program\Header.h(39,1): warning C4005: maxs: изменение макроопределения
+C:\Users\Пользователь\source\repos\program\program\Header.h(18): message : см. предыдущее определение "maxs"
+C:\Users\Пользователь\source\repos\program\program\Header.h(40,1): warning C4005: izm: изменение макроопределения
+C:\Users\Пользователь\source\repos\program\program\Header.h(19): message : см. предыдущее определение "izm"
+C:\Users\Пользователь\source\repos\program\program\Header.h(55,1): warning C4005: showArr: изменение макроопределения
+C:\Users\Пользователь\source\repos\program\program\Header.h(35): message : см. предыдущее определение "showArr"
+C:\Users\Пользователь\source\repos\program\program\Header.h(56,1): warning C4005: fillArr: изменение макроопределения
+C:\Users\Пользователь\source\repos\program\program\Header.h(36): message : см. предыдущее определение "fillArr"
+C:\Users\Пользователь\source\repos\program\program\Header.h(57,1): warning C4005: bubbleSortArr: изменение макроопределения
+C:\Users\Пользователь\source\repos\program\program\Header.h(37): message : см. предыдущее определение "bubbleSortArr"
+C:\Users\Пользователь\source\repos\program\program\Header.h(58,1): warning C4005: mins: изменение макроопределения
+C:\Users\Пользователь\source\repos\program\program\Header.h(38): message : см. предыдущее определение "mins"
+C:\Users\Пользователь\source\repos\program\program\Header.h(59,1): warning C4005: maxs: изменение макроопределения
+C:\Users\Пользователь\source\repos\program\program\Header.h(39): message : см. предыдущее определение "maxs"
+C:\Users\Пользователь\source\repos\program\program\Header.h(60,1): warning C4005: izm: изменение макроопределения
+C:\Users\Пользователь\source\repos\program\program\Header.h(40): message : см. предыдущее определение "izm"
+  program.vcxproj -> C:\Users\Пользователь\source\repos\program\Debug\program.exe
